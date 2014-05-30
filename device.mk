@@ -223,7 +223,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.hwui.text_small_cache_width=1024 \
     ro.hwui.text_small_cache_height=1024 \
     ro.hwui.text_large_cache_width=2048 \
-    ro.hwui.text_large_cache_height=1024
+    ro.hwui.text_large_cache_height=1024 \
+    otaupdater.otaid=cmhammerhead
 
 PRODUCT_PROPERTY_OVERRIDES += \
     drm.service.enabled=true
